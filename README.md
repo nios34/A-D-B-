@@ -1,1 +1,5 @@
-# A-D-B-
+# A!D!B!
+
+## Usage
+
+``` python3 main.py ```
